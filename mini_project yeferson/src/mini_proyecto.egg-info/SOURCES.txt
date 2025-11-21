@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/mini_proyecto/__init__.py
+src/mini_proyecto/estrategias.py
+src/mini_proyecto/interfaz.py
+src/mini_proyecto/operaciones.py
+src/mini_proyecto.egg-info/PKG-INFO
+src/mini_proyecto.egg-info/SOURCES.txt
+src/mini_proyecto.egg-info/dependency_links.txt
+src/mini_proyecto.egg-info/top_level.txt
+tests/test_operaciones.py
